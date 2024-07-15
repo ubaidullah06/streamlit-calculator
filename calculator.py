@@ -4,7 +4,7 @@ import numpy as np
 
 st.title("WELCOME TO UBAID'S CALCULATOR")
 st.header("A simple calculator performs basic Arithmatic Functions  ")
-result = None  # Initialize result to None
+
 
 a = st.number_input("Enter 1st number ")
 b = st.number_input("Enter 2nd number ")
